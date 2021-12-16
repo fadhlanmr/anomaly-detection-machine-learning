@@ -1,5 +1,5 @@
 # anomaly-detection-machine-learning
-Anomaly detection on machine failures for assignment purpose using k-means and agglomerative
+Anomaly detection on machine failures for assessment purpose using k-means and agglomerative
 
 Google Colab [link](https://colab.research.google.com/drive/1TDO0crDPbG9FZe2yVLKD0OwYdyTaYS28?usp=sharing)
 
