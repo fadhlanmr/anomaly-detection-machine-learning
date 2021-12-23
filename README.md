@@ -9,6 +9,8 @@ Google Colab [link](https://colab.research.google.com/drive/1TDO0crDPbG9FZe2yVLK
 - [Unsupervised Learning For Anomaly Detection](https://towardsdatascience.com/unsupervised-learning-for-anomaly-detection-44c55a96b8c1)
 - [Anomaly detection with TensorFlow | Workshop](https://www.youtube.com/watch?v=2K3ScZp1dXQ)
 - [ML-based Anomaly Detection](https://github.com/y-bar/ml-based-anomaly-detection)
+- [Association Rule Mining with Apriori Algorithm](https://colab.research.google.com/drive/1Xk8mgUQ3W3AffoC_BZE-mLDK64-299Wz)
+- [Hierarchical Clustering](https://colab.research.google.com/drive/1a91KaHlchrWpiF2BXcLL7g_hA4h5IENl)
 
 ### What can be improved :
 1. Uses Time series Forecasting
